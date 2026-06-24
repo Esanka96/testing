@@ -14,7 +14,7 @@ from selenium.webdriver.support import expected_conditions as EC
 base_url = "https://www.scielo.br/j/ramb/grid"
 retry_attempts = 50
 retry_delay = 5
-errors = []
+errors = ["No erros"]
 
 headers = {
     "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
