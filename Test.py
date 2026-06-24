@@ -10,7 +10,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-
+#12345656
 base_url = "https://www.scielo.br/j/ramb/grid"
 retry_attempts = 50
 retry_delay = 5
